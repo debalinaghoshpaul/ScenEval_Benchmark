@@ -3,3 +3,5 @@ A large-scale benchmark called ScenEval, consisting of 12,864 tasks for testing 
 ![fig44](https://github.com/user-attachments/assets/391d0a67-7d0e-4803-ad6c-963d4893f03a)
 ![fig_4](https://github.com/user-attachments/assets/b0c16ce1-25e0-41fb-83cf-e2026e7fd5af)
 ![fig_5](https://github.com/user-attachments/assets/af887814-199c-4cb7-8553-5a2d9154587b)
+![fig_6](https://github.com/user-attachments/assets/d911a416-2f5b-4dbb-811d-4b35e2ee2aa5)
+
