@@ -21,7 +21,7 @@ name for image data.
 Reference Solutions: A collection of reference solutions for the task.
 ![fig43](https://github.com/user-attachments/assets/9dbe9891-e992-47c6-b561-8183aa1e7eff)
 ![fig44](https://github.com/user-attachments/assets/391d0a67-7d0e-4803-ad6c-963d4893f03a)
-
+![fig_3](https://github.com/user-attachments/assets/5b4c13f6-8a27-4e6b-9de5-2e06d2d6ab29)
 ![fig_5](https://github.com/user-attachments/assets/af887814-199c-4cb7-8553-5a2d9154587b)
 ![fig_6](https://github.com/user-attachments/assets/d911a416-2f5b-4dbb-811d-4b35e2ee2aa5)
 
