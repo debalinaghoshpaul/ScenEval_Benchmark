@@ -37,17 +37,7 @@ If you use this work, please cite:
 
 ---
 
-## 👩‍💻 Author
 
-**Dr. Debalina Ghosh Paul**
-PhD in Computer Science
-Focus: AI Testing, LLM Evaluation, Software Engineering
-
-* 🌐 Website: https://debalinaghoshpaul.github.io
-* 💼 LinkedIn: https://www.linkedin.com/in/debalina-ghosh-paul-phd-083302258/
-* 🧑‍💻 GitHub: https://github.com/debalinaghoshpaul
-
----
 
 
 
