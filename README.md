@@ -1,9 +1,12 @@
-# 🧠 ScenEval: Scenario-Based Evaluation of AI-Generated Code
+# ScenEval: A Benchmark for Scenario-Based Evaluation of Code Generation
+Official repository for "ScenEval: A Benchmark for Scenario-Based Evaluation of Code Generation", presented as an Oral paper at IEEE AITest 2024.
 
 ## 📌 Overview
 
-**ScenEval** is a scenario-driven evaluation framework designed to systematically assess the quality of AI-generated code, particularly from Large Language Models (LLMs).
-Instead of relying on single aggregate metrics, ScenEval introduces **multi-attribute, scenario-aware evaluation**, enabling deeper insights into model behavior across diverse programming contexts.
+**ScenEval** is a large-scale, scenario-aware benchmark designed to evaluate the quality of Large Language Models (LLMs) in code generation on diverse scenarios. ScenEval introduces 12k+ Java Tasks: A massive collection of diverse programming challenges.
+
+Along with a **test system** was constructed with test morphisms that filter the test cases based on metadata to form a dataset.
+
 
 ---
 
