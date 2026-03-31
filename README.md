@@ -3,7 +3,9 @@ Official repository for "ScenEval: A Benchmark for Scenario-Based Evaluation of 
 
 ## 📌 Overview
 
-**ScenEval** is a large-scale, scenario-aware benchmark designed to evaluate the quality of Large Language Models (LLMs) in code generation on diverse scenarios. ScenEval introduces 12k+ Java Tasks: A massive collection of diverse programming challenges.
+**ScenEval** is a large-scale, scenario-aware benchmark designed to evaluate the quality of Large Language Models (LLMs) in code generation on diverse scenarios. ScenEval introduces 12k+ Java Tasks: A massive collection of diverse programming challenges. Each task is enriched with metadata as follows:
+
+![fig43](https://github.com/user-attachments/assets/9dbe9891-e992-47c6-b561-8183aa1e7eff)
 
 Along with a **test system** was constructed with test morphisms that filter the test cases based on metadata to form a dataset.
 
